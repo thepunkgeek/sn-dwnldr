@@ -19,16 +19,6 @@ def ensure_dir(f):
         os.makedirs(d)
 ensure_dir(save_directory)
 
-#while os.path.isfile('/home/x/Music/Security-Now') == False:
-#	print
-#	print 'Creating Log'
-#	f = open('/home/x/Music/Security-Now', 'w') 
-#	f.write('1')
-#	f = open('/home/x/Music/Security-Now', 'r')
-#	log = f.read()
-#	f.close()
-#	print #'-------------------------------------------'
-
 while os.path.isfile('sn_dwnldr.log') == False:
 	print
 	print 'Creating Log'
