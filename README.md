@@ -14,5 +14,6 @@ THE SECURITY NOW PODCAST DOWNLOADER aka sn-dwnldr
  You must adjust save_directory to where you want it download to.
 
  You're welcome to use and distribute as you wish. I'd love it if you gave me credit. 
+ I also take donations through Paypal: thepunkgeek@gmail.com
 
  Enjoy! 
